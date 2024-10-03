@@ -1,0 +1,39 @@
+- 👋 Hi, I’m @Sifen1
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<# 👋 Hi, I’m @Sifen1
+
+Welcome to my GitHub profile! I’m excited to share my projects and collaborate with others in the Cardano ecosystem.
+
+## 👀 I’m interested in ...
+- Blockchain development, particularly on Cardano.
+- Decentralized applications (dApps) and smart contracts.
+- Community engagement and education in blockchain technology.
+
+## 🌱 I’m currently learning ...
+- Haskell and Plutus for Cardano smart contract development.
+- Best practices in building secure and scalable blockchain applications.
+- Project management and community building.
+
+## 💞️ I’m looking to collaborate on ...
+- Open-source projects within the Cardano community.
+- Developer tools and resources to support new developers.
+- Educational initiatives to promote blockchain understanding.
+
+## 📫 How to reach me ...
+- Email: sifaman4@gmail.com
+  
+
+## 😄 Pronouns: ...
+- He/Him
+
+## ⚡ Fun fact: ...
+- I’m passionate about finding innovative solutions to real-world problems using blockchain technology.!---
+Sifen1/Sifen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
