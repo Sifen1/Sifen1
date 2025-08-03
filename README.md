@@ -1,39 +1,49 @@
-- 👋 Hi, I’m @Sifen1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 hey, I’m Sifen 
 
-<# 👋 Hi, I’m @Sifen1
+I’m a certified Full-Stack Developer from **Evangadi Tech**, based in Ethiopia 🇪🇹. I build practical, real-world web apps — not just tutorials.
 
-Welcome to my GitHub profile! I’m excited to share my projects and collaborate with others in the Cardano ecosystem.
+---
 
-## 👀 I’m interested in ...
-- Blockchain development, particularly on Cardano.
-- Decentralized applications (dApps) and smart contracts.
-- Community engagement and education in blockchain technology.
+## 💼 What I Do
+- ✅ Full-Stack Development (React, Node, MongoDB, Supabase)
+- ✅ REST API design & frontend integration
+- ✅ System architecture for business tools: credit systems, warehouse ops, order tracking, airdrop bots, and more
 
-## 🌱 I’m currently learning ...
-- Haskell and Plutus for Cardano smart contract development.
-- Best practices in building secure and scalable blockchain applications.
-- Project management and community building.
+---
 
-## 💞️ I’m looking to collaborate on ...
-- Open-source projects within the Cardano community.
-- Developer tools and resources to support new developers.
-- Educational initiatives to promote blockchain understanding.
+## 🛠 Projects I’ve Built
+- 🏪 **Store Manager** – product/order system w/ warehouse tracking
+- 💳 **Credit App** – customer debt & transaction tracking
+- 🎬 **Netflix & Amazon clones** – UI mastery & feature recreation
+- 🤖 **Bots** – Telegram & X (Twitter) airdrop/monitoring automation
 
-## 📫 How to reach me ...
-- Email: sifaman4@gmail.com
-  
+---
 
-## 😄 Pronouns: ...
-- He/Him
+## 🧠 Current Focus
+- Building serious tools for business workflows
+- Advanced backend logic & scalable DB structures
+- Smart deployment (Netlify, Render, AWS)
+- Web3 integrations (token, airdrop, Solana tools)
 
-## ⚡ Fun fact: ...
-- I’m passionate about finding innovative solutions to real-world problems using blockchain technology.!---
-Sifen1/Sifen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🤝 Let’s Collaborate
+- Real-world web apps (React + Express)
+- Automation tools that solve actual problems
+- Projects that help people — especially in Africa
+
+---
+
+## 📫 Contact
+- Email: **sifaman4@gmail.com**
+
+---
+
+## ⚡ Real Talk
+- I didn’t go to college. I *built my own way up*.
+- Evangadi certified. Self-employed. Self-made.
+- Every line of code moves me forward — and I’m not stopping.
+
+---
+
+> “Learned it. Built it. Shipped it. Doing it again.” – Sifen
